@@ -1,0 +1,4 @@
+# Ignore workstation specific files
+.settings/
+
+
